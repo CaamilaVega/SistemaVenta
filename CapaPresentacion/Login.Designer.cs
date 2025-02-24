@@ -31,12 +31,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtdocumento = new System.Windows.Forms.TextBox();
+            this.txtclave = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.iconButton1 = new FontAwesome.Sharp.IconButton();
-            this.iconButton2 = new FontAwesome.Sharp.IconButton();
+            this.btingrear = new FontAwesome.Sharp.IconButton();
+            this.btncancelar = new FontAwesome.Sharp.IconButton();
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,7 +46,7 @@
             this.label1.Dock = System.Windows.Forms.DockStyle.Left;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(351, 275);
+            this.label1.Size = new System.Drawing.Size(351, 295);
             this.label1.TabIndex = 0;
             // 
             // label2
@@ -74,24 +74,25 @@
             this.iconPictureBox1.TabIndex = 2;
             this.iconPictureBox1.TabStop = false;
             // 
-            // textBox1
+            // txtdocumento
             // 
-            this.textBox1.Location = new System.Drawing.Point(406, 55);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(200, 26);
-            this.textBox1.TabIndex = 3;
+            this.txtdocumento.Location = new System.Drawing.Point(372, 55);
+            this.txtdocumento.Name = "txtdocumento";
+            this.txtdocumento.Size = new System.Drawing.Size(318, 26);
+            this.txtdocumento.TabIndex = 3;
             // 
-            // textBox2
+            // txtclave
             // 
-            this.textBox2.Location = new System.Drawing.Point(406, 132);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(200, 26);
-            this.textBox2.TabIndex = 4;
+            this.txtclave.Location = new System.Drawing.Point(372, 132);
+            this.txtclave.Name = "txtclave";
+            this.txtclave.PasswordChar = '*';
+            this.txtclave.Size = new System.Drawing.Size(318, 26);
+            this.txtclave.TabIndex = 4;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(406, 13);
+            this.label3.Location = new System.Drawing.Point(368, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(121, 20);
             this.label3.TabIndex = 5;
@@ -100,55 +101,74 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(406, 106);
+            this.label4.Location = new System.Drawing.Point(368, 99);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(92, 20);
             this.label4.TabIndex = 6;
             this.label4.Text = "Contraseña";
             // 
-            // iconButton1
+            // btingrear
             // 
-            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.DoorOpen;
-            this.iconButton1.IconColor = System.Drawing.Color.Black;
-            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton1.IconSize = 21;
-            this.iconButton1.Location = new System.Drawing.Point(406, 200);
-            this.iconButton1.Name = "iconButton1";
-            this.iconButton1.Size = new System.Drawing.Size(92, 40);
-            this.iconButton1.TabIndex = 7;
-            this.iconButton1.Text = "Ingresar";
-            this.iconButton1.UseVisualStyleBackColor = true;
+            this.btingrear.BackColor = System.Drawing.Color.MediumSpringGreen;
+            this.btingrear.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btingrear.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btingrear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btingrear.ForeColor = System.Drawing.Color.White;
+            this.btingrear.IconChar = FontAwesome.Sharp.IconChar.DoorOpen;
+            this.btingrear.IconColor = System.Drawing.Color.White;
+            this.btingrear.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btingrear.IconSize = 21;
+            this.btingrear.Location = new System.Drawing.Point(372, 200);
+            this.btingrear.Name = "btingrear";
+            this.btingrear.Size = new System.Drawing.Size(145, 40);
+            this.btingrear.TabIndex = 7;
+            this.btingrear.Text = "Ingresar";
+            this.btingrear.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btingrear.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btingrear.UseVisualStyleBackColor = false;
+            this.btingrear.Click += new System.EventHandler(this.btingrear_Click);
             // 
-            // iconButton2
+            // btncancelar
             // 
-            this.iconButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.E;
-            this.iconButton2.IconColor = System.Drawing.Color.Black;
-            this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton2.Location = new System.Drawing.Point(522, 200);
-            this.iconButton2.Name = "iconButton2";
-            this.iconButton2.Size = new System.Drawing.Size(84, 40);
-            this.iconButton2.TabIndex = 8;
-            this.iconButton2.Text = "Cancelar";
-            this.iconButton2.UseVisualStyleBackColor = true;
+            this.btncancelar.BackColor = System.Drawing.Color.Firebrick;
+            this.btncancelar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btncancelar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btncancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btncancelar.ForeColor = System.Drawing.Color.White;
+            this.btncancelar.IconChar = FontAwesome.Sharp.IconChar.CircleXmark;
+            this.btncancelar.IconColor = System.Drawing.Color.White;
+            this.btncancelar.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btncancelar.IconSize = 21;
+            this.btncancelar.Location = new System.Drawing.Point(545, 200);
+            this.btncancelar.Name = "btncancelar";
+            this.btncancelar.Size = new System.Drawing.Size(145, 40);
+            this.btncancelar.TabIndex = 7;
+            this.btncancelar.Text = "Cancelar";
+            this.btncancelar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btncancelar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btncancelar.UseVisualStyleBackColor = false;
+            this.btncancelar.Click += new System.EventHandler(this.btncancelar_Click);
             // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(648, 275);
-            this.Controls.Add(this.iconButton2);
-            this.Controls.Add(this.iconButton1);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(729, 295);
+            this.Controls.Add(this.btncancelar);
+            this.Controls.Add(this.btingrear);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtclave);
+            this.Controls.Add(this.txtdocumento);
             this.Controls.Add(this.iconPictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.iconPictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -160,11 +180,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtdocumento;
+        private System.Windows.Forms.TextBox txtclave;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private FontAwesome.Sharp.IconButton iconButton1;
-        private FontAwesome.Sharp.IconButton iconButton2;
+        private FontAwesome.Sharp.IconButton btingrear;
+        private FontAwesome.Sharp.IconButton btncancelar;
     }
 }

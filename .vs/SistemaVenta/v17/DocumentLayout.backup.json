@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6286CCA-00D1-496F-994C-DF36CB214256}|CapaDatos\\CapaDatos.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6286CCA-00D1-496F-994C-DF36CB214256}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6286CCA-00D1-496F-994C-DF36CB214256}|CapaDatos\\CapaDatos.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6286CCA-00D1-496F-994C-DF36CB214256}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552A645E-414D-4AD2-AF2D-510B93E7B4BD}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552A645E-414D-4AD2-AF2D-510B93E7B4BD}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalle_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\detalle_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalle_compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975DC802-9629-422C-A2FF-40DB38B49EBE}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\caami\\onedrive\\desktop\\sistemaventa\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077EC1CD-F0ED-46CA-9890-A4C7DA08D9A0}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:10:26.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:57:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:46:01.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-23T22:19:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:43:26.01Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:08:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:11:00.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detalle_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Detalle_Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Venta.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Detalle_Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Detalle_Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:14:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detalle_Compra.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Detalle_Compra.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Compra.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Detalle_Compra.cs",
+              "RelativeToolTip": "CapaEntidad\\Detalle_Compra.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:05:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Usuario.cs",
+              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:50:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Rol.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Rol.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Rol.cs",
+              "RelativeToolTip": "CapaEntidad\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:43:33.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Producto.cs",
+              "RelativeToolTip": "CapaEntidad\\Producto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:57:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Permiso.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Permiso.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Permiso.cs",
+              "RelativeToolTip": "CapaEntidad\\Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:47:11.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Cliente.cs",
+              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:00:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Compra.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Compra.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Compra.cs",
+              "RelativeToolTip": "CapaEntidad\\Compra.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:02:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Proveedor.cs",
+              "RelativeToolTip": "CapaEntidad\\Proveedor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:54:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Categoria.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaEntidad\\Categoria.cs",
+              "RelativeToolTip": "CapaEntidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:56:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:52:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Login.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Login.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAhwJUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:32:00.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:14:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\caami\\OneDrive\\Desktop\\SistemaVenta\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:43:21.775Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

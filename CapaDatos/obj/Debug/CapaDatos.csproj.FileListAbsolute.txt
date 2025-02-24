@@ -1,0 +1,11 @@
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\caami\OneDrive\Desktop\SistemaVenta\CapaDatos\bin\Debug\System.Data.SqlClient.xml
